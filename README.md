@@ -1,1 +1,1 @@
-# basic.hotel_menu.project
+# basic-python projects
